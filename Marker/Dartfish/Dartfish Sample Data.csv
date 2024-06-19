@@ -1,0 +1,6 @@
+﻿Name;Position;Duration;Period;Action;ColorTag
+START;2222;4000;1. Period;START;Color4
+POINT;51361;4000;1. Period;POINT;Color3
+GOAL;162057;4000;1. Period;GOAL;Color2
+POINT;278138;4000;2. Period;POINT;Color3
+POINT;304572;4000;2 Period;POINT;Color3
